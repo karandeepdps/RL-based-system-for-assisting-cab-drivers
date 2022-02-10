@@ -20,7 +20,7 @@ You can download the MDP from below. The major simplifying assumptions are also 
 
 **Cab Driver MDPDownload**
 
-In this project, you need to create the environment and an RL agent that learns to choose the best request. You need to train your agent using **vanilla Deep Q-learning (DQN)** only and NOT a double DQN. You have learnt about the two [architectures of DQN](https://learn.upgrad.com/v/course/696/session/169982/segment/905130) (shown below) - you are free to choose any of these.
+In this project, you need to create the environment and an RL agent that learns to choose the best request. You need to train your agent using **vanilla Deep Q-learning (DQN)** only and NOT a double DQN. You have learnt about the two [architectures of DQN] (shown below) - you are free to choose any of these.
 
 ![https://cdn.upgrad.com/UpGrad/temp/1ead5781-4c4e-482c-835a-db8af5acd433/Q_network+-+Architecture+1.PNG](https://cdn.upgrad.com/UpGrad/temp/1ead5781-4c4e-482c-835a-db8af5acd433/Q_network+-+Architecture+1.PNG)
 
